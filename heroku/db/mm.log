@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SOAP-ENV:Envelope xmlns:ns0="urn:partner.soap.sforce.com" xmlns:ns1="http://schemas.xmlsoap.org/soap/envelope/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:tns="urn:partner.soap.sforce.com" xmlns:SOAP-ENV="http://schemas.xmlsoap.org/soap/envelope/">
+   <SOAP-ENV:Header>
+      <tns:SessionHeader>
+         <tns:sessionId>00D10000000aYdT!AREAQHWwmq8Iek3BzWdKSk6kDOPaXWzj2JxGetbrXxf215NTHV7hqpqFwdAUTyXMA_77A1CISna1RLBCq8nvMY2aYhN78Ta5</tns:sessionId>
+      </tns:SessionHeader>
+   </SOAP-ENV:Header>
+   <ns1:Body>
+      <ns0:getUserInfo/>
+   </ns1:Body>
+</SOAP-ENV:Envelope>
+<?xml version="1.0" encoding="UTF-8"?>
+<SOAP-ENV:Envelope xmlns:ns0="urn:partner.soap.sforce.com" xmlns:ns1="http://schemas.xmlsoap.org/soap/envelope/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:tns="urn:partner.soap.sforce.com" xmlns:SOAP-ENV="http://schemas.xmlsoap.org/soap/envelope/">
+   <SOAP-ENV:Header>
+      <tns:SessionHeader>
+         <tns:sessionId>00D10000000aYdT!AREAQHWwmq8Iek3BzWdKSk6kDOPaXWzj2JxGetbrXxf215NTHV7hqpqFwdAUTyXMA_77A1CISna1RLBCq8nvMY2aYhN78Ta5</tns:sessionId>
+      </tns:SessionHeader>
+   </SOAP-ENV:Header>
+   <ns1:Body>
+      <ns0:getUserInfo/>
+   </ns1:Body>
+</SOAP-ENV:Envelope>

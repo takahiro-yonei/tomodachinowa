@@ -1,0 +1,11 @@
+<h1>DCMax HackChallenge</h1>
+<% if current_user %>
+  Welcome !! <%= current_user.nick_name %><br/>
+  あなたのIDは <%= current_user.user_id %>です。<br/>
+  このIDを、SalesforceのConfigオブジェクトのProxyUserIdに保存してください。<br/><br/>
+  <%= link_to "Sign Out", signout_path %>
+<% else %>
+  <%= link_to "Sign in with Salesforce", "/auth/salesforce" %>
+<% end %>
+<br/>
+<p id="notice"><%= notice %></p>
