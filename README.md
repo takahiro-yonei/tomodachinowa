@@ -60,3 +60,12 @@ Salesforceで投稿があって、Herokuに転送した場合、Heroku側で投�
 また、Salesforceで投稿に対するコメントがあって、Herokuに転送した場合、Heroku側で投稿元のユーザーを特定して、そのユーザーに対してコメント内容を転送します。
 
 なお、HerokuからSalesforceへのアクセスには[force.rb](https://github.com/heroku/force.rb)を使っています。
+
+## デモ用アカウント
+
+
+※以下、デモ用アカウントでログインします。
+
+[Demo1](https://login.salesforce.com/?un=dcmax-demo@taodrive.com&pw=y1awBd38uYz@As)
+
+[Demo2](https://login.salesforce.com/?un=dcmax-friend@taodrive.com&pw=A2byCh97esZp@W)
